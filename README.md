@@ -7,7 +7,7 @@ Features a clean modern UI, smooth animated background, and playful question des
 
 ## 🚀 Live Demo
 
-👉 [nsccquiz.vercel.app](https://nsccquiz.vercel.app)
+👉 [quiznscc.vercel.app](https://nsccquiz.vercel.app)
 
 ## 📌 Features
 
