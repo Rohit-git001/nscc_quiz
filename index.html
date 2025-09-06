@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Interactive Quiz</title>
+  <link rel="stylesheet" href="quiz.css" />
+  <!-- Clean, professional typeface -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Subtle animated background -->
+  <div class="bg"></div>
+
+  <main class="container">
+    <header class="header">
+      <h1>Quiz</h1>
+      <p class="subtitle"></p>
+    </header>
+
+    <form id="quizForm" class="card">
+      <div id="quizQuestions"></div>
+
+      <button type="submit" id="submitBtn" class="btn-primary">
+        Submit Quiz
+      </button>
+    </form>
+
+    <section id="resultBox" class="card result" aria-live="polite"></section>
+  </main>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
