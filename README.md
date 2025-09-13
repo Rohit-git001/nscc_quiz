@@ -7,7 +7,7 @@ Features a clean modern UI, smooth animated background, and playful question des
 
 ## 🚀 Live Demo
 
-👉 [nsccquiz.vercel.app](https://nsccquiz.vercel.app)
+👉 [quiznscc.vercel.app](https://quiznscc.vercel.app)
 NOTE: sometimes depending on the device after clicking the submit button, you may need to scroll down to view the score, as auto scroll might not work 
 
 ## 📌 Features
